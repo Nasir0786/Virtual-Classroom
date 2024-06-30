@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OTeaching", "..\..\..\Desktop\virtual classroom project\Virtual Classroom\OTeaching\", "{F560FAE9-175E-4F2F-9D7B-804126748E10}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64045"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\virtual classroom project\Virtual Classroom\OTeaching\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64045\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64045"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\virtual classroom project\Virtual Classroom\OTeaching\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64045\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64045"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F560FAE9-175E-4F2F-9D7B-804126748E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F560FAE9-175E-4F2F-9D7B-804126748E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E956F31-B62C-4C39-8DF7-CB474D89AF08}
+	EndGlobalSection
+EndGlobal
